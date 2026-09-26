@@ -54,7 +54,7 @@
     "description": "A secure rental platform where users can rent items or list their own, with AI integration and a modern responsive design.",
     "image": "/images/projects/rento.png",
     "tech": [
-      "React",
+      "Vue.js",
       "AI Integration"
     ],
     "liveUrl": "https://iti-final-proj-weld.vercel.app/home",
@@ -65,7 +65,7 @@
     "description": "An online store where logged-in users browse products, manage their cart and wishlist, and complete purchases.",
     "image": "/images/projects/ecommerce.png",
     "tech": [
-      "Vue.js",
+      "React",
       "API Integration"
     ],
     "liveUrl": "https://my-5u2dw5pqv-mohamed-mortagas-projects.vercel.app/",
