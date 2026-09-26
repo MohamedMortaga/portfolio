@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Backend Development with Node.js",
+    "description": "Currently studying Route's Backend Diploma: Node.js, Express, databases and building REST APIs.",
+    "status": "learning"
+  },
+  {
+    "title": "Full-Stack Project",
+    "description": "Building a complete app with a Next.js frontend and my own Node.js backend and database.",
+    "status": "planned"
+  },
+  {
+    "title": "Portfolio v2",
+    "description": "Adding a blog and case studies that explain the decisions behind my projects.",
+    "status": "planned"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "title": "AAIB Online Banking",
+    "description": "Online banking website for Arab African International Bank clients, mirroring the mobile banking app experience.",
+    "image": "/images/projects/aaib-online-banking.png",
+    "tech": [
+      "React",
+      "TypeScript",
+      "GraphQL",
+      "Redux"
+    ],
+    "liveUrl": "https://personal-banking.aaib.com/login",
+    "featured": true
+  },
+  {
+    "title": "AAIB App Control Center (ACC)",
+    "description": "Internal platform for AAIB employees to manage and control the online banking website and mobile application.",
+    "image": "/images/projects/aaib-acc.png",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "GraphQL",
+      "Zustand"
+    ],
+    "featured": true
+  },
+  {
+    "title": "AAIB Corporate Website",
+    "description": "The bank's public website presenting its services, teams and overall organization to clients.",
+    "image": "/images/projects/aaib-website.png",
+    "imageNote": "Image is AI-generated for confidentiality",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "GraphQL",
+      "Redux"
+    ],
+    "liveUrl": "https://www.aaib.com/",
+    "featured": true
+  },
+  {
+    "title": "AAIB CMS",
+    "description": "Internal content management system used to manage the content of the AAIB website.",
+    "image": "/images/projects/aaib-cms.png",
+    "imageNote": "Image is AI-generated for confidentiality",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "Redux"
+    ]
+  },
+  {
+    "title": "Rento",
+    "description": "A secure rental platform where users can rent items or list their own, with AI integration and a modern responsive design.",
+    "image": "/images/projects/rento.png",
+    "tech": [
+      "React",
+      "AI Integration"
+    ],
+    "featured": true
+  },
+  {
+    "title": "E-commerce Web App",
+    "description": "An online store where logged-in users browse products, manage their cart and wishlist, and complete purchases.",
+    "image": "/images/projects/ecommerce.png",
+    "tech": [
+      "React",
+      "API Integration"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Cinema Booking App",
+    "description": "A cinema booking system with API-driven movie listings, validated forms and toast notifications.",
+    "image": "/images/projects/cinema.png",
+    "tech": [
+      "React",
+      "Formik",
+      "Yup",
+      "React Toastify"
+    ],
+    "featured": true
+  },
+  {
+    "title": "DIS Website",
+    "description": "Freelance project: designed and developed the frontend of the DIS company website.",
+    "image": "/images/projects/dis.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap"
+    ]
+  }
+]

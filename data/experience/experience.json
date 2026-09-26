@@ -1,0 +1,90 @@
+[
+  {
+    "type": "work",
+    "company": "Arab African International Bank (AAIB)",
+    "role": "Software Engineer (Frontend)",
+    "startDate": "Aug 2025",
+    "endDate": "Aug 2026",
+    "location": "Digital Factory, Cairo, Egypt",
+    "achievements": [
+      "Built the Online Banking Website that mirrors the mobile banking app experience for AAIB clients.",
+      "Developed ACC (App Control Center), an internal platform for employees to manage the online banking website and mobile app.",
+      "Worked on the AAIB corporate website presenting the bank's services, teams and organization.",
+      "Built the internal CMS used to manage the AAIB website content."
+    ],
+    "tech": ["React", "Next.js", "TypeScript", "GraphQL", "Redux", "Zustand"]
+  },
+  {
+    "type": "work",
+    "company": "Freelance",
+    "role": "Frontend Developer",
+    "startDate": "Nov 2024",
+    "endDate": "2025",
+    "achievements": [
+      "Collaborated with clients to gather requirements and align projects with business goals.",
+      "Designed and developed the frontend of the DIS website and handled client communication."
+    ],
+    "tech": ["HTML", "CSS", "JavaScript", "Bootstrap"]
+  },
+  {
+    "type": "training",
+    "company": "Route",
+    "role": "Backend Development Diploma",
+    "startDate": "Jul 2026",
+    "endDate": "Present",
+    "location": "Online",
+    "achievements": [
+      "Building server-side skills with Node.js, focusing on APIs and databases."
+    ],
+    "tech": ["Node.js"]
+  },
+  {
+    "type": "training",
+    "company": "Information Technology Institute (ITI)",
+    "role": "UI/UX Development Track - Intensive Training Program",
+    "startDate": "Mar 2025",
+    "endDate": "Jul 2025",
+    "location": "Giza, Egypt",
+    "achievements": [
+      "Improved UI/UX design skills using Figma, Adobe Illustrator and Photoshop.",
+      "Strengthened technical skills in HTML5, CSS, JavaScript, jQuery and databases.",
+      "Built Rento, a rental web app, and a coffee shop app design as training projects."
+    ],
+    "tech": ["Figma", "Illustrator", "Photoshop", "HTML5", "CSS", "JavaScript", "jQuery"]
+  },
+  {
+    "type": "training",
+    "company": "Route",
+    "role": "Frontend Development Diploma",
+    "startDate": "Mar 2025",
+    "endDate": "Sep 2025",
+    "location": "Online",
+    "achievements": [
+      "Built multiple responsive, user-friendly websites, including an e-commerce web app."
+    ],
+    "tech": ["HTML", "CSS", "JavaScript", "React"]
+  },
+  {
+    "type": "training",
+    "company": "AMIT Learning",
+    "role": "Cybersecurity SOC Analyst Diploma",
+    "startDate": "Nov 2024",
+    "endDate": "Apr 2025",
+    "location": "Online",
+    "achievements": [
+      "Learned Security Operations Center practices: threat detection, incident response and network security monitoring using SIEM tools."
+    ],
+    "tech": ["SIEM", "Network Security"]
+  },
+  {
+    "type": "training",
+    "company": "Black Horse Courses",
+    "role": "Frontend Development Diploma",
+    "startDate": "Nov 2024",
+    "endDate": "Jan 2025",
+    "achievements": [
+      "Strengthened HTML, CSS, JavaScript, React and Bootstrap skills and built a cinema booking app."
+    ],
+    "tech": ["HTML", "CSS", "JavaScript", "React", "Bootstrap"]
+  }
+]
