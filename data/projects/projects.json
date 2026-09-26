@@ -65,7 +65,7 @@
     "description": "An online store where logged-in users browse products, manage their cart and wishlist, and complete purchases.",
     "image": "/images/projects/ecommerce.png",
     "tech": [
-      "React",
+      "Vue.js",
       "API Integration"
     ],
     "liveUrl": "https://my-5u2dw5pqv-mohamed-mortagas-projects.vercel.app/",
