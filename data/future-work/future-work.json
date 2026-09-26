@@ -2,7 +2,8 @@
   {
     "title": "Backend Development with Node.js",
     "description": "Currently studying Route's Backend Diploma: Node.js, Express, databases and building REST APIs.",
-    "status": "learning"
+    "status": "learning",
+    "progress": 40
   },
   {
     "title": "Full-Stack Project",

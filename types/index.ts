@@ -52,4 +52,5 @@ export type FutureItem = {
   title: string;
   description: string;
   status: FutureStatus;
+  progress?: number;
 };
