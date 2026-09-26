@@ -48,6 +48,7 @@ export default function About() {
           {/* Name + title */}
           <div className="flex flex-col gap-3">
             <p className="font-mono text-sm text-[#e05d5d]">
+              {"// "}
               {profile.title}
             </p>
             <h1 className="text-5xl font-semibold leading-[1.05] tracking-tight sm:text-6xl lg:text-7xl">
