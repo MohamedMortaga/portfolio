@@ -21,7 +21,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="relative isolate flex min-h-[calc(100vh-4rem)] scroll-mt-20 items-center overflow-hidden py-20"
+      className="relative isolate flex bg-muted/30 min-h-[calc(100vh-4rem)] scroll-mt-20 items-center overflow-hidden py-20"
     >
       {/* ===== Background: dot grid + glow ===== */}
       <div

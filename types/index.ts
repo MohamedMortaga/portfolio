@@ -36,6 +36,7 @@ export type Experience = {
 export type Project = {
   title: string;
   description: string;
+  highlights?: string[];
   image: string;
   imageNote?: string;
   tech: string[];
