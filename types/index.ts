@@ -11,6 +11,7 @@ export type Profile ={
     title:string;
     bio:string;
     image:string;
+    details?: string[];
     cv:string;
     email:string;
     location?:string;
