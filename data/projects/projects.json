@@ -16,6 +16,7 @@
     "title": "AAIB App Control Center (ACC)",
     "description": "Internal platform for AAIB employees to manage and control the online banking website and mobile application.",
     "image": "/images/projects/aaib-acc.png",
+    "imageNote": "Image is AI-generated for confidentiality",
     "tech": [
       "Next.js",
       "TypeScript",
@@ -28,7 +29,6 @@
     "title": "AAIB Corporate Website",
     "description": "The bank's public website presenting its services, teams and overall organization to clients.",
     "image": "/images/projects/aaib-website.png",
-    "imageNote": "Image is AI-generated for confidentiality",
     "tech": [
       "Next.js",
       "TypeScript",
@@ -57,6 +57,7 @@
       "React",
       "AI Integration"
     ],
+    "liveUrl": "https://iti-final-proj-weld.vercel.app/home",
     "featured": true
   },
   {
@@ -67,29 +68,7 @@
       "React",
       "API Integration"
     ],
+    "liveUrl": "https://my-5u2dw5pqv-mohamed-mortagas-projects.vercel.app/",
     "featured": true
-  },
-  {
-    "title": "Cinema Booking App",
-    "description": "A cinema booking system with API-driven movie listings, validated forms and toast notifications.",
-    "image": "/images/projects/cinema.png",
-    "tech": [
-      "React",
-      "Formik",
-      "Yup",
-      "React Toastify"
-    ],
-    "featured": true
-  },
-  {
-    "title": "DIS Website",
-    "description": "Freelance project: designed and developed the frontend of the DIS company website.",
-    "image": "/images/projects/dis.png",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Bootstrap"
-    ]
   }
 ]
